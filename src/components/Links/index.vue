@@ -61,7 +61,7 @@ let linksData = [
   {
     icon: Compass,
     name: "搜搜",
-    link: "https://navi.0830.tech/",
+    link: "https://nav.0830.tech/",
   },
   {
     icon: Book,
