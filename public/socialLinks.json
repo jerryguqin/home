@@ -1,31 +1,32 @@
-[{
+{
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
-}, {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "url": "https://github.com/jerryguqin"
 }, {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "url": "https://res.abeim.cn/api/qq/?qq=94352213"
 }, {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto:jerryguqin@126.com"
 }, {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+
+    "name": "Douyin",
+    "icon": "/images/icon/douyin.png",
+    "tip": "我的vlog ~",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAHkhaHQmy50hecojsNcVo3HVQtS7orPO5ZamVhRs1mYQ"
 }, {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
+    "name": "500px",
+    "icon": "/images/icon/500px.png",
+    "tip": "我的摄影作品 ~",
+    "url": "https://500px.com.cn/Mythril"
+}, {
+    "name": "Instagram",
+    "icon": "/images/icon/instagram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://www.instagram.com/jerryguqin/"
 }]
