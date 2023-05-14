@@ -56,7 +56,7 @@ let linksData = [
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.0830.tech/",
+    link: "https://nas.0830.tech:9300/",
   },
   {
     icon: Compass,
