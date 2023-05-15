@@ -44,14 +44,14 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
+    icon: Cloud,
+    name: "群晖",
+    link: "https://nas.0830.tech:8100/",
+  },
+  {
     icon: Blog,
     name: "相册",
     link: "https://nas.0830.tech:9200",
-  },
-  {
-    icon: Cloud,
-    name: "网盘",
-    link: "https://nas.0830.tech:8100/",
   },
   {
     icon: CompactDisc,
