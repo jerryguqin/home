@@ -7,7 +7,7 @@
       </span>
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
-        >&nbsp;&amp;&nbsp;Made&nbsp;by&nbsp;<a
+        >&nbsp;&amp;&nbsp;Made&nbsp;bynbsp;<a
           :href="config.github"
           target="_blank"
         >
