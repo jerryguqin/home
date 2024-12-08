@@ -49,7 +49,7 @@ let linksData = [
     link: "https://nas.0830.tech:8100/",
   },
   {
-    icon: Blog,
+    icon: Book,
     name: "相册",
     link: "https://nas.0830.tech:9200",
   },
@@ -64,9 +64,9 @@ let linksData = [
     link: "https://nav.0830.tech/",
   },
   {
-    icon: Book,
+    icon: Blog,
     name: "网址集",
-    link: "https://url.0830.tech",
+    link: "https://wp.0830.tech:9900",
   },
   {
     icon: Fire,
