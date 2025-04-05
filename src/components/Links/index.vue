@@ -65,7 +65,7 @@ let linksData = [
   },
   {
     icon: Blog,
-    name: "网址集",
+    name: "博客",
     link: "https://wp.0830.tech:9900",
   },
   {
