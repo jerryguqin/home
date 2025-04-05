@@ -31,51 +31,44 @@
 import { ref } from "vue";
 import { Icon } from "@vicons/utils";
 import {
-  Link,
-  Blog,
-  CompactDisc,
   Cloud,
-  Compass,
-  Book,
   Fire,
-  CloudSync32Regular,
-  PhotoLibraryRound,
-  MusicNote2Play20Filled,
-  GlobeSearch24Regular,
-  NotepadEdit16Regular,
-  FiberNewSharp,
+  CameraRetro,
+  ItunesNote,
+  Search,
+  BookOpen,
 } from "@vicons/fa";
 
 // 网站链接数据
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    icon: CloudSync32Regular,
+    icon: Cloud,
     name: "群晖",
     link: "https://nas.0830.tech:8100/",
   },
   {
-    icon: PhotoLibraryRound,
+    icon: CameraRetro,
     name: "相册",
     link: "https://nas.0830.tech:9200",
   },
   {
-    icon: MusicNote2Play20Filled,
+    icon: ItunesNote,
     name: "音乐",
     link: "https://nas.0830.tech:9300/",
   },
   {
-    icon: GlobeSearch24Regular,
+    icon: Search,
     name: "搜搜",
     link: "https://nav.0830.tech/",
   },
   {
-    icon: NotepadEdit16Regular,
+    icon: BookOpen,
     name: "博客",
     link: "https://wp.0830.tech:9900",
   },
   {
-    icon: FiberNewSharp,
+    icon: Fire,
     name: "今日热榜",
     link: "https://hot.0830.tech/",
   },
