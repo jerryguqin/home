@@ -44,32 +44,32 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    icon: Cloud,
+    icon: CloudSync32Regular,
     name: "群晖",
     link: "https://nas.0830.tech:8100/",
   },
   {
-    icon: Book,
+    icon: PhotoLibraryRound,
     name: "相册",
     link: "https://nas.0830.tech:9200",
   },
   {
-    icon: CompactDisc,
+    icon: MusicNote2Play20Filled,
     name: "音乐",
     link: "https://nas.0830.tech:9300/",
   },
   {
-    icon: Compass,
+    icon: GlobeSearch24Regular,
     name: "搜搜",
     link: "https://nav.0830.tech/",
   },
   {
-    icon: Blog,
+    icon: NotepadEdit16Regular,
     name: "博客",
     link: "https://wp.0830.tech:9900",
   },
   {
-    icon: Fire,
+    icon: FiberNewSharp,
     name: "今日热榜",
     link: "https://hot.0830.tech/",
   },
