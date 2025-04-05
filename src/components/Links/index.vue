@@ -38,6 +38,12 @@ import {
   Compass,
   Book,
   Fire,
+  CloudSync32Regular,
+  PhotoLibraryRound,
+  MusicNote2Play20Filled,
+  GlobeSearch24Regular,
+  NotepadEdit16Regular,
+  FiberNewSharp,
 } from "@vicons/fa";
 
 // 网站链接数据
